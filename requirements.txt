@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+gradio
+requests
+transformers==4.41.1
+torch
